@@ -1,0 +1,5 @@
+P=int(input("Nhap vao tien von dau tu ban dau la : "))
+r=float(input("Nhap vao lai suat moi thang la : "))
+n=int(input("nhap vao so thang gui :"))
+Tienlanhcuoiky=P*(1+r*n)
+print("Tien lanh cuoi ky :", Tienlanhcuoiky)
